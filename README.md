@@ -189,7 +189,7 @@ I welcome any ideas for improving the e-commerce sales analysis. Your contributi
 ---
 
 ## License 📜
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE (https://github.com/shaun-mia/Excel-dashboard-Project/blob/main/LICENSE)file for details.
 
 ## Contact 📧
 For any questions or feedback, feel free to contact me:
