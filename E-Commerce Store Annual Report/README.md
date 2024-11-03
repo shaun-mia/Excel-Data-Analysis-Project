@@ -1,5 +1,4 @@
 ## E-Commerce Store Annual Report
-![E-Commerce Store Annual Report](https://github.com/shaun-mia/Excel-dashboard-Project/blob/main/images/E%20Commerce%20annual%20report.png)
 
 **[View Project](https://github.com/shaun-mia/Excel-dashboard-Project/tree/main/E-Commerce%20Store%20Annual%20Report)**
 
