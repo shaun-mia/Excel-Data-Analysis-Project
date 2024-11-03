@@ -1,4 +1,4 @@
-## 2. HR Attrition Dashboard
+## HR Attrition Dashboard
 
 ### Overview
 The HR Attrition Dashboard provides a comprehensive analysis of employee turnover within an organization. It visualizes key metrics such as age, job role, and performance ratings, helping HR professionals identify patterns and make informed decisions.
