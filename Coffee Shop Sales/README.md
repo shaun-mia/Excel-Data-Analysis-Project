@@ -42,4 +42,14 @@ The Coffee Shop Sales Dashboard offers a detailed analysis of sales performance 
 ### Contribution 🤝
 If you have any suggestions for improving this dashboard or adding new features, please feel free to contribute by submitting a pull request.
 
+
+
+## License 📜
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact 📧
+For any questions or feedback, feel free to contact me:
+
+- **Email:** shaunmia.cse@gmail.com
+- **LinkedIn:** [Shaun Mia](https://www.linkedin.com/in/shaun-mia)
 ---
