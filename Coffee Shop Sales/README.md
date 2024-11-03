@@ -1,5 +1,4 @@
 ##  Coffee Shop Sales Dashboard
-**[View Project](https://github.com/shaun-mia/Excel-dashboard-Project/tree/main/Coffee%20Shop%20Sales)**
 
 ### Overview
 The Coffee Shop Sales Dashboard offers a detailed analysis of sales performance in a coffee shop, focusing on product categories, sales trends, and customer behavior. This dashboard enables coffee shop owners to optimize their offerings and understand their business dynamics better.
